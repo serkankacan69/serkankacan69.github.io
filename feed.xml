@@ -5,10 +5,16 @@
     <link>https://serkankacan69.github.io/</link>
     <description>Otomotiv elektroniği, immobilizer ve anahtar güvenliği teknik bülten akışı</description>
     <language>tr-TR</language>
-    <pubDate>Thu, 12 Nov 2026 23:47:27 GMT</pubDate>
+    <pubDate>Thu, 12 Nov 2026 23:47:33 GMT</pubDate>
     <atom:link href="https://serkankacan69.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" />
-
+    <item>
+      <title>Otomotiv CAN-Bus Ağ Topolojisi ve Elektronik Anahtar Yetkilendirme Mimarisi</title>
+      <link>https://serkankacan69.github.io/bultenler/bulten-20261113-024733.html</link>
+      <guid isPermaLink="true">https://serkankacan69.github.io/bultenler/bulten-20261113-024733.html</guid>
+      <description>Modern araçlarda gövde kontrol modülü (BCM), motor kontrol ünitesi (ECU) ve direksiyon kolonu kilidi (ESL) yüksek hızlı CAN-Bus veri hatları üzerinden kriptografik el sıkışma protokolleriyle haberleşir. İletişim hattındaki voltaj dalgalanmaları veya senkronizasyon sapmaları doğrudan araç çalıştırma izinlerini etkiler.</description>
+      <pubDate>Thu, 12 Nov 2026 23:47:33 GMT</pubDate>
+    </item>
   </channel>
 </rss>
