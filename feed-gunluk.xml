@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Güncel Otomotiv Teknolojileri Günlük Seçki (Maks. 1/Gün)</title>
+    <link>https://serkankacan69.github.io/</link>
+    <description>Günde en fazla 1 adet seçkin otomotiv güvenliği ve elektronik anahtar özeti sunar</description>
+    <language>tr-TR</language>
+    <pubDate>Thu, 12 Nov 2026 23:47:33 GMT</pubDate>
+    <atom:link href="https://serkankacan69.github.io/feed-gunluk.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Otomotiv CAN-Bus Ağ Topolojisi ve Elektronik Anahtar Yetkilendirme Mimarisi</title>
+      <link>https://serkankacan69.github.io/bultenler/bulten-20261113-024733.html</link>
+      <guid isPermaLink="true">https://serkankacan69.github.io/bultenler/bulten-20261113-024733.html</guid>
+      <category>CAN-Bus &amp; İmmobilizer</category>
+      <description>&lt;p&gt;Modern araçlarda gövde kontrol modülü (BCM), motor kontrol ünitesi (ECU) ve direksiyon kolonu kilidi (ESL) yüksek hızlı CAN-Bus veri hatları üzerinden kriptografik el sıkışma protokolleriyle haberleşir. İletişim hattındaki voltaj dalgalanmaları veya senkronizasyon sapmaları doğrudan araç çalıştırma izinlerini etkiler.&lt;/p&gt;&lt;p&gt;İncelenen konunun teknik ayrıntıları ve kaynak arşivi için orijinal bülten: &lt;a href="https://serkankacan69.github.io/bultenler/bulten-20261113-024733.html"&gt;Otomotiv CAN-Bus Ağ Topolojisi ve Elektronik Anahtar Yetkilendirme Mimarisi&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 23:47:33 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
