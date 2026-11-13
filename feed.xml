@@ -5,10 +5,18 @@
     <link>https://serkankacan69.github.io/</link>
     <description>Yeni nesil araç elektroniği, kasko/sürücü hakları, akıllı anahtar güvenliği ve teknik saha gelişmeleri haber akışı</description>
     <language>tr-TR</language>
-    <pubDate>Fri, 13 Nov 2026 00:46:07 GMT</pubDate>
+    <pubDate>Fri, 13 Nov 2026 00:54:47 GMT</pubDate>
     <atom:link href="https://serkankacan69.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" />
+    <item>
+      <title>Anahtarsız Çalıştırma (Keyless Go) Olan Araçlarda Sinyal Kopyalama Tehdidine Karşı UWB Dönemi</title>
+      <link>https://serkankacan69.github.io/bultenler/bulten-20261113-035447.html</link>
+      <guid isPermaLink="true">https://serkankacan69.github.io/bultenler/bulten-20261113-035447.html</guid>
+      <category>Akıllı Anahtar &amp; Siber Güvenlik</category>
+      <description>Anahtarsız giriş ve çalıştırma (Keyless Go / PASE) sistemleri 125 kHz düşük frekanslı yakınlık algılayıcıları ile 433.92 MHz / 868 MHz UHF veri kanallarını bir arada kullanır. Günlük kullanımda yüksek konfor sunan bu çift bant mimari, yoğun elektromanyetik alanlarda menzil düşüşü veya geçici algılama gecikmeleri yaşayabilir.</description>
+      <pubDate>Fri, 13 Nov 2026 00:54:47 GMT</pubDate>
+    </item>
     <item>
       <title>Araç Hırsızlığına Karşı Yeni Şifreleme Standardı: AES-128 Çipler Eski Kopyalama Yöntemlerini Bitirdi</title>
       <link>https://serkankacan69.github.io/bultenler/bulten-20261113-034607.html</link>
