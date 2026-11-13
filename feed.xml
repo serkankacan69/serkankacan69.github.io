@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Güncel Otomotiv Teknolojileri ve Sürücü Güvenliği Bülteni</title>
+    <title>Türkiye Sektörel Hizmet &amp; Uzman Servis Dizini</title>
     <link>https://serkankacan69.github.io/</link>
-    <description>Yeni nesil araç elektroniği, kasko/sürücü hakları, akıllı anahtar güvenliği ve teknik saha gelişmeleri haber akışı</description>
+    <description>Doğrulanmış firma tanıtım bültenleri, kurumsal oto anahtar servisleri ve teknik inceleme akışı</description>
     <language>tr-TR</language>
-    <pubDate>Fri, 13 Nov 2026 04:15:26 GMT</pubDate>
+    <pubDate>Fri, 13 Nov 2026 05:41:49 GMT</pubDate>
     <atom:link href="https://serkankacan69.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" />
+    <item>
+      <title>Doğrulanmış Oto Anahtar Servisi Nasıl Seçilir? Kurumsal Garanti, Lisanslı OBD Ekipman ve Şeffaf Fiyat Rehberi</title>
+      <link>https://serkankacan69.github.io/bultenler/bulten-20261113-084149.html</link>
+      <guid isPermaLink="true">https://serkankacan69.github.io/bultenler/bulten-20261113-084149.html</guid>
+      <category>Kurumsal Hizmet Dizini</category>
+      <description>Modern araçlarda kriptolu anahtar ve akıllı kilit donanımlarının yaygınlaşmasıyla birlikte, lisanslı diagnostik cihaz kullanan ve şeffaf fiyatlandırma sunan kurumsal teknik servis kuruluşlarının doğrulanmış dizinlerde incelenmesi sürücüler için temel referans haline gelmiştir.</description>
+      <pubDate>Fri, 13 Nov 2026 05:41:49 GMT</pubDate>
+    </item>
     <item>
       <title>Ticari Filo ve Kargo Araçlarında Anahtar Kaybı Maliyetleri: Şoför Değişiminde Kritik Protokol</title>
       <link>https://serkankacan69.github.io/bultenler/bulten-20261113-060051.html</link>

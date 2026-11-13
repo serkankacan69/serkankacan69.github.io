@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Güncel Otomotiv Teknolojileri Günlük Seçki (Maks. 1/Gün)</title>
+    <title>Sektörel Hizmet Dizini Günlük Seçki (Maks. 1/Gün)</title>
     <link>https://serkankacan69.github.io/</link>
-    <description>Günde en fazla 1 adet seçkin otomotiv güvenliği ve elektronik anahtar özeti sunar</description>
+    <description>Günde en fazla 1 adet seçkin kurumsal firma ve hizmet incelemesi sunar</description>
     <language>tr-TR</language>
     <pubDate>Thu, 12 Nov 2026 23:47:33 GMT</pubDate>
     <atom:link href="https://serkankacan69.github.io/feed-gunluk.xml" rel="self" type="application/rss+xml" />
