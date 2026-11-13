@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OtoTeknik Dokümantasyon Arşivi</title>
+    <title>Güncel Otomotiv Teknolojileri ve Sürücü Güvenliği Bülteni</title>
     <link>https://serkankacan69.github.io/</link>
-    <description>Otomotiv elektroniği, immobilizer ve anahtar güvenliği teknik bülten akışı</description>
+    <description>Yeni nesil araç elektroniği, kasko/sürücü hakları, akıllı anahtar güvenliği ve teknik saha gelişmeleri haber akışı</description>
     <language>tr-TR</language>
-    <pubDate>Thu, 12 Nov 2026 23:54:23 GMT</pubDate>
+    <pubDate>Fri, 13 Nov 2026 00:46:07 GMT</pubDate>
     <atom:link href="https://serkankacan69.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" />
     <item>
+      <title>Araç Hırsızlığına Karşı Yeni Şifreleme Standardı: AES-128 Çipler Eski Kopyalama Yöntemlerini Bitirdi</title>
+      <link>https://serkankacan69.github.io/bultenler/bulten-20261113-034607.html</link>
+      <guid isPermaLink="true">https://serkankacan69.github.io/bultenler/bulten-20261113-034607.html</guid>
+      <category>Araç Güvenliği</category>
+      <description>Sabit kodlu ilk nesil araç çiplerinden kriptolu AES-128 ve HITAG AES mimarilerine geçiş, araç hırsızlığı girişimlerine karşı donanımsal savunma katmanını kökten değiştirmiştir. Her marş döngüsünde üretilen tek kullanımlık oturum anahtarları sinyal tekrarlama saldırılarını etkisiz kılar.</description>
+      <pubDate>Fri, 13 Nov 2026 00:46:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Otomotiv CAN-Bus Ağ Topolojisi ve Elektronik Anahtar Yetkilendirme Mimarisi</title>
       <link>https://serkankacan69.github.io/bultenler/bulten-20261113-024733.html</link>
       <guid isPermaLink="true">https://serkankacan69.github.io/bultenler/bulten-20261113-024733.html</guid>
+      <category>CAN-Bus &amp; İmmobilizer</category>
       <description>Modern araçlarda gövde kontrol modülü (BCM), motor kontrol ünitesi (ECU) ve direksiyon kolonu kilidi (ESL) yüksek hızlı CAN-Bus veri hatları üzerinden kriptografik el sıkışma protokolleriyle haberleşir. İletişim hattındaki voltaj dalgalanmaları veya senkronizasyon sapmaları doğrudan araç çalıştırma izinlerini etkiler.</description>
       <pubDate>Thu, 12 Nov 2026 23:47:33 GMT</pubDate>
     </item>
